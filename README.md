@@ -28,7 +28,7 @@ Je suis passionnée par l'art de faire parler les données pour répondre à des
 
 ### 📫 Me contacter
 
-- **LinkedIn :** linkedin.com/in/hiba-hasnaoui
+- **LinkedIn :** [linkedin.com/in/hiba-hasnaoui](https://www.linkedin.com/in/hiba-hasnaoui )
 ---
 
 ### ⚡ Fun fact
