@@ -1,16 +1,37 @@
-## Hi there 👋
+# Salut, moi c'est Hiba ! 👋
 
-<!--
-**hibahasnaoui963/hibahasnaoui963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Étudiante en BUT Science des Données (2ème année) 
+**Parcours EMS (Exploration et Modélisation Statistique) | Option Marketing**
 
-Here are some ideas to get you started:
+Je suis passionnée par l'art de faire parler les données pour répondre à des problématiques stratégiques. Mon cursus combine une rigueur statistique (EMS) avec une vision orientée business (Marketing).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Compétences Techniques
+
+- **Langages :** ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+  ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=flat&logo=sqlite&logoColor=white)
+- **Analyse & Stats :** Régression linéaire/logistique, Tests d'hypothèses, Séries Temporelles, Analyse de données (ACP, AFC).
+- **Data Viz & Reporting :** R Shiny, Power BI, ggplot2, Matplotlib.
+- **Marketing :** Diagnostic SWOT, Analyse de performance, Études de marché quantitatives.
+
+---
+
+### 🚀 Projets Phares 
+
+**[📈 Analyse Prédictive : Dépenses Clients](https://github.com/hibahasnaoui963/Analyse-Regression-Marketing)**
+*Modélisation du comportement d'achat via une régression linéaire multiple sous R.*
+  👉 **[Consulter le rapport interactif (HTML)](https://hibahasnaoui963.github.io/Analyse-Regression-Marketing/Analyse-Regression-Marketing.html)**
+  
+---
+
+### 📫 Me contacter
+
+- **LinkedIn :** linkedin.com/in/hiba-hasnaoui
+---
+
+### ⚡ Fun fact
+"En BUT SD, on sait que la corrélation n'est pas la causalité... mais une bonne corrélation marketing, ça aide quand même !"
+
+---
