@@ -22,9 +22,9 @@ Je suis passionnée par l'art de faire parler les données pour répondre à des
 
 **[Analyse prédictive : Dépenses clients](https://github.com/hibahasnaoui963/Analyse-Regression-Marketing)**
 *Modélisation du comportement d'achat via une régression linéaire multiple sous R.*
-     **[Consulter le rapport interactif (HTML)](https://hibahasnaoui963.github.io/Analyse-Regression-Marketing/Analyse-Regression-Marketing.html)**
+    **[Consulter le rapport interactif (HTML)](https://hibahasnaoui963.github.io/Analyse-Regression-Marketing/Analyse-Regression-Marketing.html)**
 
-- **[Analyse et prédiction de la gravité des accidents (2024)](https://github.com/hibahasnaoui963/Accidents_2024)** - *Python, Scikit-Learn, Statistiques.*
+**[Analyse et prédiction de la gravité des accidents (2024)](https://github.com/hibahasnaoui963/Accidents_2024)** - *Python, Scikit-Learn, Statistiques.*
   
 ---
 
